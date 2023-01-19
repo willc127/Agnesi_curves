@@ -1,5 +1,5 @@
-%pkg install "https://downloads.sourceforge.net/project/octave/Octave%20Forge%20Packages/Individual%20Package%20Releases/matgeom-1.2.3.tar.gz"
-%pkg load matgeom
+pkg install "https://downloads.sourceforge.net/project/octave/Octave%20Forge%20Packages/Individual%20Package%20Releases/matgeom-1.2.3.tar.gz"
+pkg load matgeom
 close all; clear all; clc
 %Define the vector of a
 a = [1:7];
